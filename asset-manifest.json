@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/pero-travel/static/css/main.31d6cfe0.css",
+    "main.js": "/pero-travel/static/js/main.a5c60a72.js",
+    "index.html": "/pero-travel/index.html",
+    "main.a5c60a72.js.map": "/pero-travel/static/js/main.a5c60a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a5c60a72.js"
+  ]
+}
